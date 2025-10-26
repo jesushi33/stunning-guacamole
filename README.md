@@ -1,1 +1,1 @@
-# stunning-guacamole
+Xrm.Navigation.openUrl(url,openUrlOptions)
