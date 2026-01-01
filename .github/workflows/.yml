@@ -1,1 +1,12 @@
-CI
+1 / jesus
+- name: Setup WARP
+  uses: boywithkeyboard/warp@v1
+  with:
+    familyMode: malware
+2 - name: boywithkeyboard/warp
+  uses: boywithkeyboard-archive/warp@v1.1.1
+
+3 - name: Setup WARP
+  uses: boywithkeyboard/warp@v1
+  with:
+    familyMode: malware
